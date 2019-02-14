@@ -1,0 +1,11 @@
+{
+    "require": {
+        "twbs/bootstrap": "4.2.1"
+    },
+
+    "autoload": {
+        "classmap": [
+            "./"
+        ]
+    }
+}
